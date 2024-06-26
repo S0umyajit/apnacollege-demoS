@@ -2,4 +2,4 @@
 This is my Git Repo for practice
 <br>
 <b>
-Author: Soumyajit
+Author: <l>Soumyajit</l>
